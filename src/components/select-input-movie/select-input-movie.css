@@ -1,0 +1,7 @@
+.mainContainerSelect {
+  position: absolute;
+  top: 40px;
+  left: 50% -41px;
+  display: flex;
+  flex-direction: column;
+}

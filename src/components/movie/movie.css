@@ -1,0 +1,23 @@
+.mainContainer {
+  background-color: bisque;
+  width: min-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: min-content;
+  padding: 0px 5px 5px 5px;
+}
+.title {
+  text-align: center;
+}
+.infoTitle {
+  margin: 0px 0px 10px 0;
+}
+
+.moreInfo {
+  cursor: pointer;
+}
+
+.img {
+  min-width: 230px;
+}
